@@ -1,0 +1,95 @@
+[
+  {
+    "arquivo": "geral.md",
+    "titulo": "Visão Geral da Reforma Tributária",
+    "keywords": [
+      "reforma tributaria", "reforma", "ec 132", "lc 214", "visao geral",
+      "novo sistema", "tributacao", "consumo", "iva", "iva dual"
+    ]
+  },
+  {
+    "arquivo": "ibs.md",
+    "titulo": "IBS — Imposto sobre Bens e Serviços",
+    "keywords": [
+      "ibs", "imposto sobre bens", "icms", "iss", "estados", "municipios",
+      "comite gestor", "aliquota ibs", "competencia"
+    ]
+  },
+  {
+    "arquivo": "cbs.md",
+    "titulo": "CBS — Contribuição sobre Bens e Serviços",
+    "keywords": [
+      "cbs", "contribuicao sobre bens", "pis", "cofins", "federal",
+      "uniao", "aliquota cbs", "nao cumulatividade"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo.md",
+    "titulo": "Imposto Seletivo",
+    "keywords": [
+      "imposto seletivo", "seletivo", "is", "cigarro", "tabaco",
+      "bebida alcoolica", "veiculo", "nocivo", "saude", "meio ambiente",
+      "sin tax", "extrafiscal"
+    ]
+  },
+  {
+    "arquivo": "transicao.md",
+    "titulo": "Período de Transição (2026–2033)",
+    "keywords": [
+      "transicao", "periodo de transicao", "2026", "2027", "2028",
+      "2029", "2030", "2031", "2032", "2033", "aliquota de teste",
+      "implementacao", "prazo", "cronograma", "fase"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados.md",
+    "titulo": "Regimes Diferenciados e Benefícios Fiscais",
+    "keywords": [
+      "regime diferenciado", "beneficio fiscal", "isencao", "reducao",
+      "simples nacional", "mei", "microempresa", "zona franca",
+      "manaus", "cesta basica", "reducao aliquota"
+    ]
+  },
+  {
+    "arquivo": "nao-cumulatividade.md",
+    "titulo": "Não Cumulatividade e Créditos",
+    "keywords": [
+      "nao cumulatividade", "credito", "credito fiscal", "aproveitamento",
+      "ressarcimento", "split payment", "pagamento fracionado",
+      "debito", "compensacao"
+    ]
+  },
+  {
+    "arquivo": "cashback.md",
+    "titulo": "Cashback e Benefícios Sociais",
+    "keywords": [
+      "cashback", "devolucao", "baixa renda", "beneficio social",
+      "cadUnico", "cad unico", "populacao vulneravel", "regressividade"
+    ]
+  },
+  {
+    "arquivo": "setores.md",
+    "titulo": "Impactos Setoriais",
+    "keywords": [
+      "setor", "agronegocio", "agricultura", "saude", "educacao",
+      "imoveis", "financeiro", "servicos financeiros", "combustivel",
+      "energia", "saneamento", "medicamento", "alimento"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor.md",
+    "titulo": "Comitê Gestor do IBS",
+    "keywords": [
+      "comite gestor", "cgibs", "gestao", "arrecadacao", "distribuicao",
+      "estados membros", "representacao", "deliberacao"
+    ]
+  },
+  {
+    "arquivo": "fdr.md",
+    "titulo": "Fundo de Desenvolvimento Regional (FDR)",
+    "keywords": [
+      "fdr", "fundo de desenvolvimento regional", "desenvolvimento regional",
+      "desigualdade regional", "guerra fiscal", "repasse"
+    ]
+  }
+]
