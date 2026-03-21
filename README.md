@@ -1,7 +1,10 @@
 # Base Pública — Reforma Tributária do Consumo
 
 > Documentação estruturada das normas que instituem o novo sistema de tributação sobre o consumo no Brasil, organizada por tema e com referenciamento cruzado aos dispositivos legais.
-
+> Este repositório é utilizado como base de referência para o chatbot Assistente da Reforma Tributária que pode ser acessado em [assistente-reforma-tributaria](https://assistente-reforma-tributaria.netlify.app/)
+> Caso queira clonar ou se conectar e utilizar para outros fins, por gentileza, adote cautela e responsabilidade, todas as informações geradas aqui ainda estão sob revisão e precisam ser validadas. Por isso, não utilize para fins escusos.
+> Caso queira contribuir, envie um e-mail para assistentereformatributaria@gmail.com
+> Mantido e desenvolvido por Fernando Anselmo Filho - Especialista Tributário - CRC/DF 030789-O.
 ---
 
 ## Normas-fonte
@@ -276,5 +279,7 @@ Os textos normativos reproduzidos são de domínio público, nos termos do art. 
 > **Aviso:** este repositório tem caráter informativo e de referência. Para fins jurídicos, consulte sempre os textos oficiais publicados no Diário Oficial da União e disponíveis em [www.planalto.gov.br](https://www.planalto.gov.br).
 
 ---
-
+## Autor ##
+Este repositório foi desenvolvido e é mantido por Fernando Anselmo Filho - Especialista Tributário - CRC/DF 030789-O.
+Para maiores informações envie um email para assistentereformatributaria@gmail.com.
 *Atualizado com base na LC 227/2026 (publicada em 13/01/2026).*
