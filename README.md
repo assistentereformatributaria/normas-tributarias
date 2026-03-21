@@ -282,4 +282,5 @@ Os textos normativos reproduzidos são de domínio público, nos termos do art. 
 ## Autor ##
 Este repositório foi desenvolvido e é mantido por Fernando Anselmo Filho - Especialista Tributário - CRC/DF 030789-O.
 Para maiores informações envie um email para assistentereformatributaria@gmail.com.
+
 *Atualizado com base na LC 227/2026 (publicada em 13/01/2026).*
