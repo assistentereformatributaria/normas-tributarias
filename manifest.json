@@ -1,158 +1,2017 @@
 [
-  {"arquivo":"README.md","titulo":"Índice Geral da Base","keywords":["indice","readme","objetivo","mapa normativo","visao geral","reforma tributaria","base normativa"]},
-  {"arquivo":"normas-fonte.md","titulo":"Normas-Fonte: EC 132, LC 214, LC 227","keywords":["ec 132","lc 214","lc 227","emenda constitucional","lei complementar","vigencia","hierarquia","norma"]},
-  {"arquivo":"principios-gerais.md","titulo":"Princípios Gerais do Sistema Tributário Nacional","keywords":["principio","neutralidade","simplicidade","transparencia","justica fiscal","meio ambiente","nao regressividade","stn"]},
-  {"arquivo":"glossario.md","titulo":"Glossário — Definições Legais","keywords":["glossario","definicao","conceito","operacao","fornecimento","fornecedor","adquirente","destinatario","partes relacionadas"]},
-
-  {"arquivo":"ibs/ibs-visao-geral.md","titulo":"IBS — Visão Geral","keywords":["ibs","imposto sobre bens e servicos","visao geral","competencia compartilhada","neutralidade","156-a"]},
-  {"arquivo":"ibs/ibs-incidencia.md","titulo":"IBS — Incidência","keywords":["ibs","incidencia","fato gerador","hipotese","oneroso","nao oneroso","brindes","bonificacoes","partes relacionadas"]},
-  {"arquivo":"ibs/ibs-nao-incidencia.md","titulo":"IBS — Não Incidência","keywords":["ibs","nao incidencia","relacao de emprego","atos societarios","dividendo","transferencia entre estabelecimentos","contribuicoes associativas"]},
-  {"arquivo":"ibs/ibs-fornecimento-misto.md","titulo":"IBS — Fornecimento Misto","keywords":["ibs","fornecimento misto","fornecimento conjunto","principal","acessorio","aliquota zero","suspensao","isencao","diferimento","reducao"]},
-  {"arquivo":"ibs/ibs-imunidades.md","titulo":"IBS — Imunidades","keywords":["ibs","imunidade","entes publicos","religiosa","educacao","assistencia","livros","fonogramas","radiodifusao","ouro","149-b","150"]},
-  {"arquivo":"ibs/ibs-fato-gerador.md","titulo":"IBS — Fato Gerador","keywords":["ibs","fato gerador","momento","operacoes continuas","pagamento antecipado","compras governamentais"]},
-  {"arquivo":"ibs/ibs-local-operacao.md","titulo":"IBS — Local da Operação","keywords":["ibs","local","principio do destino","destino","domicilio","adquirente","energia","gas","dutovias"]},
-  {"arquivo":"ibs/ibs-base-calculo.md","titulo":"IBS — Base de Cálculo","keywords":["ibs","base de calculo","exclusoes","arbitramento","cambio","derivativos"]},
-  {"arquivo":"ibs/ibs-aliquotas.md","titulo":"IBS — Alíquotas","keywords":["ibs","aliquota","aliquota padrao","aliquota de referencia","resolucao senado","ajuste","156-a"]},
-  {"arquivo":"ibs/ibs-sujeito-passivo.md","titulo":"IBS — Sujeito Passivo","keywords":["ibs","sujeito passivo","contribuinte","responsavel tributario","substituicao tributaria","plataforma digital"]},
-  {"arquivo":"ibs/ibs-nao-cumulatividade.md","titulo":"IBS — Não Cumulatividade","keywords":["ibs","nao cumulatividade","compensacao","credito","recolhimento","156-a"]},
-  {"arquivo":"ibs/ibs-creditamento.md","titulo":"IBS — Creditamento","keywords":["ibs","credito","creditamento","aquisicoes","bens de capital","vedacoes","uso pessoal","transferencia entre estabelecimentos","ressarcimento"]},
-  {"arquivo":"ibs/ibs-operacionalizacao.md","titulo":"IBS — Operacionalização","keywords":["ibs","cadastro unico","nota fiscal","documento fiscal eletronico","split payment","apuracao","recolhimento","devolucao","cancelamento"]},
-  {"arquivo":"ibs/ibs-importacoes.md","titulo":"IBS — Importações","keywords":["ibs","importacao","importar","exterior","fato gerador importacao","base de calculo importacao","pessoa fisica","pessoa juridica"]},
-  {"arquivo":"ibs/ibs-exportacoes.md","titulo":"IBS — Exportações","keywords":["ibs","exportacao","exportar","imunidade exportacao","manutencao de creditos","consumo no exterior"]},
-
-  {"arquivo":"cbs/cbs-visao-geral.md","titulo":"CBS — Visão Geral","keywords":["cbs","contribuicao sobre bens e servicos","visao geral","competencia federal","pis","cofins","195"]},
-  {"arquivo":"cbs/cbs-aliquotas.md","titulo":"CBS — Alíquotas","keywords":["cbs","aliquota","lei ordinaria federal","aliquota de referencia","ajuste senado","195"]},
-  {"arquivo":"cbs/cbs-base-calculo.md","titulo":"CBS — Base de Cálculo","keywords":["cbs","base de calculo","nao integracao","195"]},
-  {"arquivo":"cbs/cbs-regras-comuns-ibs.md","titulo":"CBS — Regras Comuns com IBS","keywords":["cbs","ibs","regras comuns","149-b","fato gerador","imunidades","nao cumulatividade","harmonizacao"]},
-  {"arquivo":"cbs/cbs-consulta-harmonizacao.md","titulo":"CBS — Consulta e Harmonização","keywords":["cbs","ibs","consulta tributaria","harmonizacao","rfb","receita federal","solucao de consulta","lc 227"]},
-
-  {"arquivo":"comite-gestor/cg-visao-geral.md","titulo":"Comitê Gestor — Visão Geral","keywords":["comite gestor","cgibs","natureza juridica","independencia","156-b","lc 227"]},
-  {"arquivo":"comite-gestor/cg-competencias.md","titulo":"Comitê Gestor — Competências","keywords":["comite gestor","cgibs","competencia","regulamento unico","arrecadacao","distribuicao","contencioso","divida ativa","escola nacional"]},
-  {"arquivo":"comite-gestor/cg-fiscalizacao-cobranca.md","titulo":"Comitê Gestor — Fiscalização e Cobrança","keywords":["comite gestor","cgibs","fiscalizacao","cobranca","titularidade","cotitularidade","multa punitiva"]},
-  {"arquivo":"comite-gestor/cg-estrutura-orgaos.md","titulo":"Comitê Gestor — Estrutura e Órgãos","keywords":["comite gestor","cgibs","conselho superior","presidencia","vice presidencia","diretoria executiva","secretaria","corregedoria","auditoria"]},
-  {"arquivo":"comite-gestor/cg-conselho-superior.md","titulo":"Comitê Gestor — Conselho Superior","keywords":["comite gestor","cgibs","conselho superior","composicao","eleicao","cnm","fnp","mandato","perda do cargo"]},
-  {"arquivo":"comite-gestor/cg-deliberacoes.md","titulo":"Comitê Gestor — Deliberações","keywords":["comite gestor","cgibs","deliberacao","quorum","maioria absoluta","presidencia alternada","reeleicao"]},
-  {"arquivo":"comite-gestor/cg-presidencia.md","titulo":"Comitê Gestor — Presidência","keywords":["comite gestor","cgibs","presidente","vice presidente","eleicao","alternancia"]},
-  {"arquivo":"comite-gestor/cg-diretoria-executiva.md","titulo":"Comitê Gestor — Diretoria Executiva","keywords":["comite gestor","cgibs","diretoria executiva","diretor executivo","legislacao","cadastro","sistemas","arrecadacao","cobranca","fiscalizacao","revisao","administrativa","procuradoria","tesouraria"]},
-  {"arquivo":"comite-gestor/cg-corregedoria.md","titulo":"Comitê Gestor — Corregedoria","keywords":["comite gestor","cgibs","corregedoria","processo disciplinar","conflito de interesses"]},
-  {"arquivo":"comite-gestor/cg-auditoria-interna.md","titulo":"Comitê Gestor — Auditoria Interna","keywords":["comite gestor","cgibs","auditoria interna","controle interno","vagas femininas"]},
-  {"arquivo":"comite-gestor/cg-financiamento.md","titulo":"Comitê Gestor — Financiamento","keywords":["comite gestor","cgibs","financiamento","orcamento","controle externo","percentual arrecadacao"]},
-  {"arquivo":"comite-gestor/cg-integracao-rfb.md","titulo":"Comitê Gestor — Integração com RFB","keywords":["comite gestor","cgibs","rfb","receita federal","pgfn","integracao","atos normativos conjuntos","informacoes"]},
-  {"arquivo":"comite-gestor/cg-regulamento-unico.md","titulo":"Comitê Gestor — Regulamento Único","keywords":["comite gestor","cgibs","regulamento unico","aprovacao","normas comuns","conformidade fiscal","programa de conformidade"]},
-  {"arquivo":"comite-gestor/cg-escola-nacional.md","titulo":"Comitê Gestor — Escola Nacional de Tributação","keywords":["comite gestor","cgibs","escola nacional","tributacao","formacao","capacitacao","servidores"]},
-
-  {"arquivo":"processo-administrativo/pat-visao-geral.md","titulo":"PAT — Processo Administrativo Tributário (Visão Geral)","keywords":["pat","processo administrativo","processo tributario","unificado","lancamento de oficio","icms","iss","fragmentacao"]},
-  {"arquivo":"processo-administrativo/pat-lancamento-oficio.md","titulo":"PAT — Lançamento de Ofício","keywords":["pat","lancamento de oficio","constituicao do credito","credito tributario","prazo","cobranca administrativa"]},
-  {"arquivo":"processo-administrativo/pat-1a-instancia.md","titulo":"PAT — 1ª Instância","keywords":["pat","primeira instancia","camara de julgamento","composicao paritaria","impugnacao","pedido de retificacao"]},
-  {"arquivo":"processo-administrativo/pat-2a-instancia.md","titulo":"PAT — 2ª Instância","keywords":["pat","segunda instancia","camara recursal","recurso voluntario","recurso de oficio"]},
-  {"arquivo":"processo-administrativo/pat-3a-instancia.md","titulo":"PAT — 3ª Instância","keywords":["pat","terceira instancia","camara superior","recurso de uniformizacao","provimento vinculante","orgao nacional"]},
-  {"arquivo":"processo-administrativo/pat-rito-sumario.md","titulo":"PAT — Rito Sumário","keywords":["pat","rito sumario","pequeno valor","menor complexidade","upf","1000 upf"]},
-  {"arquivo":"processo-administrativo/pat-consulta-tributaria.md","titulo":"PAT — Consulta Tributária","keywords":["pat","consulta tributaria","consulta","ibs","cbs","cgibs","rfb","harmonizacao"]},
-  {"arquivo":"processo-administrativo/pat-solucao-conflitos.md","titulo":"PAT — Métodos Consensuais de Resolução de Conflitos","keywords":["pat","resolucao de conflitos","metodo consensual","cobranca extrajudicial","padronizacao"]},
-  {"arquivo":"processo-administrativo/pat-multas-penalidades.md","titulo":"PAT — Multas e Penalidades","keywords":["pat","multa","penalidade","sancao","75%","100%","150%","sonegacao","fraude","simulacao","conluio","reincidencia","471-d"]},
-
-  {"arquivo":"arrecadacao-distribuicao/ad-split-payment.md","titulo":"Split Payment — Recolhimento Automático","keywords":["split payment","recolhimento automatico","liquidacao financeira","fornecedor","adquirente","intermediario","penalidade","471-d"]},
-  {"arquivo":"arrecadacao-distribuicao/ad-distribuicao-entes.md","titulo":"Distribuição do IBS aos Entes Federativos","keywords":["distribuicao","ibs","estado","municipio","receita base","retencao","2029","2077","131","132","adct"]},
-  {"arquivo":"arrecadacao-distribuicao/ad-receita-media-referencia.md","titulo":"Receita Média de Referência dos Entes","keywords":["receita media de referencia","2019","2026","correcao","variacao","icms","iss","110","120"]},
-  {"arquivo":"arrecadacao-distribuicao/ad-retencoes-compensacoes.md","titulo":"Retenções, Compensações e Fundos de Combate à Pobreza","keywords":["retencao","compensacao","saldo credor","icms","deducao","fundo de combate a pobreza","156-a"]},
-  {"arquivo":"arrecadacao-distribuicao/ad-fundo-combate-pobreza.md","titulo":"Fundos de Combate à Pobreza","keywords":["fundo de combate a pobreza","ibs","percentual","estado","municipio","82","adct"]},
-  {"arquivo":"arrecadacao-distribuicao/ad-conformidade-tributaria.md","titulo":"Programa Nacional de Conformidade Tributária","keywords":["conformidade tributaria","programa nacional","autorizacao","autorizegularizacao","contribuinte conforme","471-a","471-b","471-c"]},
-
-  {"arquivo":"imposto-seletivo/is-visao-geral.md","titulo":"Imposto Seletivo — Visão Geral","keywords":["imposto seletivo","is","extrafiscal","saude","meio ambiente","nocivo","153","viii","lc 214"]},
-  {"arquivo":"imposto-seletivo/is-fato-gerador.md","titulo":"Imposto Seletivo — Fato Gerador","keywords":["imposto seletivo","is","fato gerador","momento","modalidade","412"]},
-  {"arquivo":"imposto-seletivo/is-nao-incidencia.md","titulo":"Imposto Seletivo — Não Incidência","keywords":["imposto seletivo","is","nao incidencia","exportacao","energia eletrica","telecomunicacoes"]},
-  {"arquivo":"imposto-seletivo/is-base-calculo.md","titulo":"Imposto Seletivo — Base de Cálculo e Alíquotas","keywords":["imposto seletivo","is","base de calculo","aliquota","ad valorem","especifica","extracao","1 porcento"]},
-  {"arquivo":"imposto-seletivo/is-integracao-outros-tributos.md","titulo":"Imposto Seletivo — Integração com Outros Tributos","keywords":["imposto seletivo","is","icms","iss","ibs","cbs","integracao","base","exportacao","lc 227"]},
-  {"arquivo":"imposto-seletivo/is-biocombustiveis.md","titulo":"Imposto Seletivo — Biocombustíveis","keywords":["imposto seletivo","is","biocombustivel","hidrogênio","baixa emissão","carbono","225"]},
-  {"arquivo":"imposto-seletivo/is-compensacao-ipi.md","titulo":"Imposto Seletivo — Compensação pela Extinção do IPI","keywords":["imposto seletivo","is","ipi","compensacao","extincao","aliquota zero","2027","126","adct"]},
-  {"arquivo":"imposto-seletivo/is-alteracoes-lc227.md","titulo":"Imposto Seletivo — Alterações da LC 227/2026","keywords":["imposto seletivo","is","lc 227","alteracao","livro iii"]},
-
-  {"arquivo":"regimes-diferenciados/rd-disposicoes-gerais.md","titulo":"Regimes Diferenciados — Disposições Gerais","keywords":["regime diferenciado","criterio geral","avaliacao quinquenal","vedacao","beneficio fiscal","156-a","340","352"]},
-  {"arquivo":"regimes-diferenciados/rd-reducao-30-porcento.md","titulo":"Regimes Diferenciados — Redução de 30%","keywords":["regime diferenciado","reducao 30%","reducao 30 porcento","educacao","saude","servicos"]},
-  {"arquivo":"regimes-diferenciados/rd-reducao-60-porcento.md","titulo":"Regimes Diferenciados — Redução de 60%","keywords":["regime diferenciado","reducao 60%","reducao 60 porcento","saude","educacao","transporte","produtor rural","pcd","seguranca","saneamento"]},
-  {"arquivo":"regimes-diferenciados/rd-reducao-zero.md","titulo":"Regimes Diferenciados — Redução a Zero / Alíquota Zero","keywords":["regime diferenciado","reducao zero","aliquota zero","cesta basica","cesta basica nacional","medicamento","higiene basica","insumo agropecuario","143","156"]},
-  {"arquivo":"regimes-diferenciados/rd-transporte-coletivo.md","titulo":"Regimes Diferenciados — Transporte Coletivo","keywords":["regime diferenciado","transporte","transporte coletivo","urbano","semiurbano","metropolitano","rodoviario","metrô","ferroviario","hidroviario","156-a"]},
-  {"arquivo":"regimes-diferenciados/rd-reabilitacao-urbana.md","titulo":"Regimes Diferenciados — Reabilitação Urbana","keywords":["regime diferenciado","reabilitacao urbana","zona historica","area critica","comissao tripartite","158"]},
-  {"arquivo":"regimes-diferenciados/rd-produtor-rural.md","titulo":"Regimes Diferenciados — Produtor Rural","keywords":["regime diferenciado","produtor rural","produtor rural integrado","nao contribuinte","159","171"]},
-  {"arquivo":"regimes-diferenciados/rd-simples-nacional.md","titulo":"Regimes Diferenciados — Simples Nacional e MEI","keywords":["regime diferenciado","simples nacional","mei","microempreendedor","microempresa","epp","pequena empresa","recolhimento separado","creditamento","lc 123","146"]},
-
-  {"arquivo":"regimes-especificos/re-combustiveis.md","titulo":"Regimes Específicos — Combustíveis","keywords":["regime especifico","combustivel","lubrificante","monofasico","aliquota uniforme","credito","revenda","156-a","192"]},
-  {"arquivo":"regimes-especificos/re-servicos-financeiros.md","titulo":"Regimes Específicos — Serviços Financeiros","keywords":["regime especifico","servicos financeiros","credito","seguro","cambio","valores mobiliarios","base receita","faturamento","aliquota uniforme","banco","financeira","156-a"]},
-  {"arquivo":"regimes-especificos/re-planos-saude.md","titulo":"Regimes Específicos — Planos de Saúde","keywords":["regime especifico","plano de saude","plano de assistencia","base de calculo","creditamento","156-a"]},
-  {"arquivo":"regimes-especificos/re-concursos-prognosticos.md","titulo":"Regimes Específicos — Concursos e Apostas","keywords":["regime especifico","concurso de prognostico","aposta","loteria","bet","244","250"]},
-  {"arquivo":"regimes-especificos/re-bens-imoveis.md","titulo":"Regimes Específicos — Bens Imóveis","keywords":["regime especifico","bem imovel","imovel","locacao","venda","loteamento","incorporacao","transicao","credito","251","270"]},
-  {"arquivo":"regimes-especificos/re-cooperativas.md","titulo":"Regimes Específicos — Cooperativas","keywords":["regime especifico","cooperativa","regime optativo","associado","fundos cooperativos","156-a"]},
-  {"arquivo":"regimes-especificos/re-turismo-hotelaria.md","titulo":"Regimes Específicos — Turismo e Hotelaria","keywords":["regime especifico","turismo","hotel","restaurante","bar","parque","agencia de turismo","aviacao regional","273","291"]},
-  {"arquivo":"regimes-especificos/re-saf-futebol.md","titulo":"Regimes Específicos — SAF / Futebol","keywords":["regime especifico","saf","sociedade anonima do futebol","futebol","aliquota diferenciada","292","296","lc 227","veto"]},
-  {"arquivo":"regimes-especificos/re-diplomatico.md","titulo":"Regimes Específicos — Diplomático","keywords":["regime especifico","diplomatico","consulado","missao diplomatica","organismo internacional","297","300"]},
-  {"arquivo":"regimes-especificos/re-prouni.md","titulo":"Regimes Específicos — ProUni","keywords":["regime especifico","prouni","programa universidade para todos","educacao","bolsa"]},
-
-  {"arquivo":"regimes-aduaneiros/regimes-aduaneiros-especiais.md","titulo":"Regimes Aduaneiros Especiais","keywords":["regime aduaneiro","drawback","repetro","recof","recine","reporto","suspensao","isencao","84","98"]},
-  {"arquivo":"regimes-aduaneiros/zpex.md","titulo":"Zonas de Processamento de Exportação (ZPE)","keywords":["zpex","zona de processamento de exportacao","exportacao","99","104"]},
-  {"arquivo":"regimes-aduaneiros/bens-de-capital.md","titulo":"Bens de Capital — Crédito e Regimes","keywords":["bens de capital","reidi","reporto","credito integral","credito imediato","diferimento","reducao zero","105","111"]},
-  {"arquivo":"regimes-aduaneiros/bagagem-remessas.md","titulo":"Bagagem e Remessas Internacionais","keywords":["bagagem","remessa internacional","aeronave","transito internacional","viajante","turista"]},
-
-  {"arquivo":"cashback/cashback-visao-geral.md","titulo":"Cashback — Visão Geral","keywords":["cashback","devolucao","pessoa fisica","baixa renda","beneficiario","limite","112","124"]},
-  {"arquivo":"cashback/cashback-energia-gas.md","titulo":"Cashback — Energia Elétrica e GLP","keywords":["cashback","energia eletrica","glp","gas","gas de cozinha","consumidor de baixa renda","devolucao obrigatoria","156-a","13"]},
-  {"arquivo":"cashback/cashback-cbs-federal.md","titulo":"Cashback — CBS Federal","keywords":["cashback","cbs","federal","devolucao","nao computo","receita corrente liquida","195"]},
-  {"arquivo":"cashback/cesta-basica-nacional.md","titulo":"Cesta Básica Nacional","keywords":["cesta basica","cesta basica nacional","aliquota zero","alimentos","medicamento","lista","revisao","120 dias","143","156"]},
-
-  {"arquivo":"itcmd/itcmd-visao-geral.md","titulo":"ITCMD — Visão Geral","keywords":["itcmd","imposto heranca","heranca","doacao","transmissao","causa mortis","normas gerais","resolucao 9","8 porcento","aliquota maxima","155"]},
-  {"arquivo":"itcmd/itcmd-fato-gerador.md","titulo":"ITCMD — Fato Gerador","keywords":["itcmd","fato gerador","causa mortis","doacao","meacao","quinhao","transmissao equiparada"]},
-  {"arquivo":"itcmd/itcmd-base-calculo.md","titulo":"ITCMD — Base de Cálculo","keywords":["itcmd","base de calculo","valor de mercado","goodwill","avaliacao","deducao"]},
-  {"arquivo":"itcmd/itcmd-aliquotas.md","titulo":"ITCMD — Alíquotas Progressivas","keywords":["itcmd","aliquota","progressividade","progressivo","8 porcento","valor do quinhao","legado","retroatividade","155"]},
-  {"arquivo":"itcmd/itcmd-imunidades.md","titulo":"ITCMD — Imunidades e Não Incidências","keywords":["itcmd","imunidade","nao incidencia","entidade sem fins lucrativos","assistencial","religiosa","cientifico","155"]},
-  {"arquivo":"itcmd/itcmd-transmissoes-internacionais.md","titulo":"ITCMD — Transmissões Internacionais","keywords":["itcmd","exterior","extraterritorialidade","tema 825","stf","doacao do exterior","domicilio","sem domicilio"]},
-  {"arquivo":"itcmd/itcmd-trusts.md","titulo":"ITCMD — Trusts","keywords":["itcmd","trust","trust exterior","settlor","trustee","beneficiario","fato gerador trust","contribuinte trust"]},
-  {"arquivo":"itcmd/itcmd-holdings.md","titulo":"ITCMD — Holdings e Planejamento Sucessório","keywords":["itcmd","holding","planejamento sucessorio","holding patrimonial","valor de mercado","goodwill","vantagem fiscal"]},
-  {"arquivo":"itcmd/itcmd-competencia-territorial.md","titulo":"ITCMD — Competência Territorial","keywords":["itcmd","competencia territorial","estado tributante","bem movel","bem imovel","domicilio","localizacao","hibrido","155"]},
-  {"arquivo":"itcmd/itcmd-fiscalizacao-arrecadacao.md","titulo":"ITCMD — Fiscalização e Arrecadação","keywords":["itcmd","fiscalizacao","arrecadacao","estado","df","regulamentacao estadual"]},
-
-  {"arquivo":"transicao/transicao-visao-geral.md","titulo":"Transição — Visão Geral e Cronograma","keywords":["transicao","cronograma","2026","2027","2028","2029","2030","2031","2032","2033","extincao","mapa das fases","124","adct"]},
-  {"arquivo":"transicao/transicao-2026-fase-teste.md","titulo":"Transição 2026 — Fase de Teste","keywords":["transicao","2026","fase de teste","aliquota teste","0.9%","0.1%","compensacao","pis","cofins","obrigacoes acessorias","125","adct"]},
-  {"arquivo":"transicao/transicao-2027-2028.md","titulo":"Transição 2027–2028","keywords":["transicao","2027","2028","extincao pis","extincao cofins","cbs","ipi","aliquota zero","imposto seletivo","126","127","adct"]},
-  {"arquivo":"transicao/transicao-2029-2032.md","titulo":"Transição 2029–2032","keywords":["transicao","2029","2030","2031","2032","reducao gradual","icms","iss","inicio do ibs","9/10","6/10","128","adct"]},
-  {"arquivo":"transicao/transicao-2033.md","titulo":"Transição 2033 — Extinção do ICMS e ISS","keywords":["transicao","2033","extincao","icms","iss","extincao definitiva","129","adct"]},
-  {"arquivo":"transicao/transicao-aliquotas-referencia.md","titulo":"Transição — Alíquotas de Referência","keywords":["transicao","aliquota de referencia","fixacao","revisao","teto de referencia","uniao","tcu","senado","130","adct","353","370"]},
-  {"arquivo":"transicao/transicao-distribuicao-ibs-2029-2077.md","titulo":"Transição — Distribuição IBS 2029–2077","keywords":["transicao","distribuicao ibs","2029","2077","entes subnacionais","retencoes decrescentes","equidade","131","132","adct"]},
-  {"arquivo":"transicao/transicao-receita-media-referencia.md","titulo":"Transição — Receita Média de Referência","keywords":["transicao","receita media de referencia","2019","2026","correcao","variacao nominal","icms","iss","110","120"]},
-  {"arquivo":"transicao/transicao-creditos-icms.md","titulo":"Transição — Créditos de ICMS","keywords":["transicao","credito icms","saldo credor icms","aproveitamento","homologacao","240 parcelas","ipca","compensacao cgibs","134","adct","384","405"]},
-  {"arquivo":"transicao/transicao-creditos-pis-cofins.md","titulo":"Transição — Créditos de PIS/COFINS","keywords":["transicao","credito pis","credito cofins","credito ipi","nao utilizado","compensacao cbs","tributos federais","135","adct","378","383"]},
-  {"arquivo":"transicao/transicao-beneficios-fiscais-icms.md","titulo":"Transição — Benefícios Fiscais do ICMS","keywords":["transicao","beneficio fiscal icms","fundo de compensacao","guerra fiscal","primarios","semielaborados","extincao 2043","125","130","136","adct"]},
-  {"arquivo":"transicao/transicao-bens-de-capital.md","titulo":"Transição — Bens de Capital","keywords":["transicao","bens de capital","aproveitamento de creditos","406","407"]},
-  {"arquivo":"transicao/transicao-compras-governamentais.md","titulo":"Transição — Compras Governamentais","keywords":["transicao","compras governamentais","reequilibrio","contratos administrativos","372","377"]},
-  {"arquivo":"transicao/transicao-avaliacao-quinquenal.md","titulo":"Transição — Avaliação Quinquenal","keywords":["transicao","avaliacao quinquenal","regime diferenciado","regime especifico","cashback","conselho superior","340","352","lc 227"]},
-
-  {"arquivo":"fndr/fndr-visao-geral.md","titulo":"FNDR — Visão Geral","keywords":["fndr","fundo nacional de desenvolvimento regional","fdr","desenvolvimento regional","infraestrutura","ciencia tecnologia inovacao","159-a"]},
-  {"arquivo":"fndr/fndr-coeficientes.md","titulo":"FNDR — Coeficientes de Participação","keywords":["fndr","fdr","coeficiente","participacao","populacao","fpe","tcu","159-a"]},
-  {"arquivo":"fndr/fndr-sustentabilidade.md","titulo":"FNDR — Sustentabilidade Ambiental","keywords":["fndr","fdr","sustentabilidade ambiental","reducao de carbono","projeto ambiental","159-a"]},
-  {"arquivo":"fndr/fundo-amazonas.md","titulo":"Fundo de Sustentabilidade — Amazonas","keywords":["fundo amazonas","sustentabilidade","diversificacao economica","amazonas","92-b","adct"]},
-  {"arquivo":"fndr/fundo-amazonia-ocidental.md","titulo":"Fundo de Desenvolvimento — Amazônia Ocidental e Amapá","keywords":["fundo amazonia ocidental","amapa","desenvolvimento sustentavel","92-b","adct"]},
-
-  {"arquivo":"zona-franca/zfm-diferencial-competitivo.md","titulo":"Zona Franca de Manaus — Diferencial Competitivo","keywords":["zona franca","zona franca de manaus","zfm","diferencial competitivo","ibs","cbs","92-b","adct"]},
-  {"arquivo":"zona-franca/zfm-instrumentos.md","titulo":"Zona Franca de Manaus — Instrumentos","keywords":["zona franca","zfm","instrumentos fiscais","instrumentos financeiros","ipi","preservacao","92-b"]},
-  {"arquivo":"zona-franca/alc-areas-livre-comercio.md","titulo":"Áreas de Livre Comércio","keywords":["area de livre comercio","alc","2023","fundo amazonia","fundo amapa","92-b","lc 214","lc 227"]},
-  {"arquivo":"zona-franca/devolucao-turista-estrangeiro.md","titulo":"Tax Refund — Devolução ao Turista Estrangeiro","keywords":["tax refund","devolucao turista","turista estrangeiro","visitante nao residente","ibs","cbs"]},
-
-  {"arquivo":"compras-governamentais/adm-publica-tributacao.md","titulo":"Compras Governamentais — Tributação","keywords":["compras governamentais","administracao publica","reducao de aliquota","redistribuicao","ente contratante","149-c","473","479"]},
-  {"arquivo":"compras-governamentais/adm-publica-transicao.md","titulo":"Compras Governamentais — Transição","keywords":["compras governamentais","administracao publica","transicao","reequilibrio","contratos administrativos","372","377"]},
-
-  {"arquivo":"alteracoes-legislativas/al-ctn.md","titulo":"Alterações ao CTN","keywords":["ctn","codigo tributario nacional","lei 5172","alteracao","conceito","prazo","obrigacoes acessorias","ibs","cbs","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-lei-kandir.md","titulo":"Alterações à Lei Kandir (LC 87/1996)","keywords":["lei kandir","lc 87","icms","saldo credor","transicao","compensacao","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-simples-nacional.md","titulo":"Alterações ao Simples Nacional (LC 123/2006)","keywords":["simples nacional","lc 123","microempresa","mei","exclusao","fiscalizacao ibs","indeferimento cgibs","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-fundeb.md","titulo":"Alterações ao Fundeb","keywords":["fundeb","lei 14113","base de calculo","ibs","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-lc63-municipios.md","titulo":"Alterações à LC 63/1990 — Transferências aos Municípios","keywords":["lc 63","municipio","transferencias federais","criterios","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-lc141-saude.md","titulo":"Alterações à LC 141/2012 — Saúde","keywords":["lc 141","saude","acoes e servicos de saude","ibs","recursos","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-lc192-combustiveis.md","titulo":"Alterações à LC 192/2022 — Combustíveis","keywords":["lc 192","combustivel","tributacao monofasica","ibs","cbs","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-crimes-responsabilidade.md","titulo":"Alterações — Crimes de Responsabilidade","keywords":["crime de responsabilidade","presidente cgibs","lei 1079","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-afrmm.md","titulo":"Alterações ao AFRMM","keywords":["afrmm","adicional ao frete","marinha mercante","lei 10893","lc 227"]},
-  {"arquivo":"alteracoes-legislativas/al-lc214-ajustes.md","titulo":"Alterações à LC 214 pela LC 227/2026","keywords":["lc 227","alteracao lc 214","fato gerador","local operacao","bens de capital","saf","medicamento","cesta basica","exportacao de servicos","174"]},
-
-  {"arquivo":"outros/ibs-cbs-harmonizacao.md","titulo":"IBS/CBS — Harmonização (Art. 149-B CF)","keywords":["ibs","cbs","harmonizacao","regras comuns","149-b"]},
-  {"arquivo":"outros/ipva-reformulado.md","titulo":"IPVA — Reformulação","keywords":["ipva","aquatico","aereo","aliquota diferenciada","impacto ambiental","agronegocio","155"]},
-  {"arquivo":"outros/itbi-atualizacao.md","titulo":"ITBI — Atualização","keywords":["itbi","base de calculo","municipio","criterio municipal","156"]},
-  {"arquivo":"outros/iluminacao-publica.md","titulo":"Contribuição de Iluminação Pública","keywords":["iluminacao publica","monitoramento","seguranca","logradouro","149-a"]},
-  {"arquivo":"outros/distribuicao-ibs-municipios.md","titulo":"Distribuição do IBS aos Municípios","keywords":["distribuicao ibs","municipio","cota municipal","80 porcento","populacao","educacao","ambiental","igualitario","158","lc 227"]},
-  {"arquivo":"outros/administracoes-tributarias.md","titulo":"Administrações Tributárias — Carreiras","keywords":["administracao tributaria","carreira tributaria","limite remuneratorio","uniao","lc","37"]},
-  {"arquivo":"outros/receitas-is-estados.md","titulo":"Receitas do IS — Participação dos Estados","keywords":["imposto seletivo","is","participacao","estados","receita","159"]}
+  {
+    "arquivo": "README.md",
+    "titulo": "Índice Geral da Base",
+    "keywords": [
+      "indice",
+      "readme",
+      "objetivo",
+      "mapa normativo",
+      "visao geral",
+      "reforma tributaria",
+      "base normativa"
+    ]
+  },
+  {
+    "arquivo": "normas-fonte.md",
+    "titulo": "Normas-Fonte: EC 132, LC 214, LC 227",
+    "keywords": [
+      "ec 132",
+      "lc 214",
+      "lc 227",
+      "emenda constitucional",
+      "lei complementar",
+      "vigencia",
+      "hierarquia",
+      "norma"
+    ]
+  },
+  {
+    "arquivo": "principios-gerais.md",
+    "titulo": "Princípios Gerais do Sistema Tributário Nacional",
+    "keywords": [
+      "principio",
+      "neutralidade",
+      "simplicidade",
+      "transparencia",
+      "justica fiscal",
+      "meio ambiente",
+      "nao regressividade",
+      "stn"
+    ]
+  },
+  {
+    "arquivo": "glossario.md",
+    "titulo": "Glossário — Definições Legais",
+    "keywords": [
+      "glossario",
+      "definicao",
+      "conceito",
+      "operacao",
+      "fornecimento",
+      "fornecedor",
+      "adquirente",
+      "destinatario",
+      "partes relacionadas"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-visao-geral.md",
+    "titulo": "IBS — Visão Geral",
+    "keywords": [
+      "ibs",
+      "imposto sobre bens e servicos",
+      "visao geral",
+      "competencia compartilhada",
+      "neutralidade",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-incidencia.md",
+    "titulo": "IBS — Incidência",
+    "keywords": [
+      "ibs",
+      "incidencia",
+      "fato gerador",
+      "hipotese",
+      "oneroso",
+      "nao oneroso",
+      "brindes",
+      "bonificacoes",
+      "partes relacionadas"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-nao-incidencia.md",
+    "titulo": "IBS — Não Incidência",
+    "keywords": [
+      "ibs",
+      "nao incidencia",
+      "relacao de emprego",
+      "atos societarios",
+      "dividendo",
+      "transferencia entre estabelecimentos",
+      "contribuicoes associativas"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-fornecimento-misto.md",
+    "titulo": "IBS — Fornecimento Misto",
+    "keywords": [
+      "ibs",
+      "fornecimento misto",
+      "fornecimento conjunto",
+      "principal",
+      "acessorio",
+      "aliquota zero",
+      "suspensao",
+      "isencao",
+      "diferimento",
+      "reducao"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-imunidades.md",
+    "titulo": "IBS — Imunidades",
+    "keywords": [
+      "ibs",
+      "imunidade",
+      "entes publicos",
+      "religiosa",
+      "educacao",
+      "assistencia",
+      "livros",
+      "fonogramas",
+      "radiodifusao",
+      "ouro",
+      "149-b",
+      "150"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-fato-gerador.md",
+    "titulo": "IBS — Fato Gerador",
+    "keywords": [
+      "ibs",
+      "fato gerador",
+      "momento",
+      "operacoes continuas",
+      "pagamento antecipado",
+      "compras governamentais"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-local-operacao.md",
+    "titulo": "IBS — Local da Operação",
+    "keywords": [
+      "ibs",
+      "local",
+      "principio do destino",
+      "destino",
+      "domicilio",
+      "adquirente",
+      "energia",
+      "gas",
+      "dutovias"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-base-calculo.md",
+    "titulo": "IBS — Base de Cálculo",
+    "keywords": [
+      "ibs",
+      "base de calculo",
+      "exclusoes",
+      "arbitramento",
+      "cambio",
+      "derivativos"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-aliquotas.md",
+    "titulo": "IBS — Alíquotas",
+    "keywords": [
+      "ibs",
+      "aliquota",
+      "aliquota padrao",
+      "aliquota de referencia",
+      "resolucao senado",
+      "ajuste",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-sujeito-passivo.md",
+    "titulo": "IBS — Sujeito Passivo",
+    "keywords": [
+      "ibs",
+      "sujeito passivo",
+      "contribuinte",
+      "responsavel tributario",
+      "substituicao tributaria",
+      "plataforma digital"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-nao-cumulatividade.md",
+    "titulo": "IBS — Não Cumulatividade",
+    "keywords": [
+      "ibs",
+      "nao cumulatividade",
+      "compensacao",
+      "credito",
+      "recolhimento",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-creditamento.md",
+    "titulo": "IBS — Creditamento",
+    "keywords": [
+      "ibs",
+      "credito",
+      "creditamento",
+      "aquisicoes",
+      "bens de capital",
+      "vedacoes",
+      "uso pessoal",
+      "transferencia entre estabelecimentos",
+      "ressarcimento"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-operacionalizacao.md",
+    "titulo": "IBS — Operacionalização",
+    "keywords": [
+      "ibs",
+      "cadastro unico",
+      "nota fiscal",
+      "documento fiscal eletronico",
+      "split payment",
+      "apuracao",
+      "recolhimento",
+      "devolucao",
+      "cancelamento"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-importacoes.md",
+    "titulo": "IBS — Importações",
+    "keywords": [
+      "ibs",
+      "importacao",
+      "importar",
+      "exterior",
+      "fato gerador importacao",
+      "base de calculo importacao",
+      "pessoa fisica",
+      "pessoa juridica"
+    ]
+  },
+  {
+    "arquivo": "ibs/ibs-exportacoes.md",
+    "titulo": "IBS — Exportações",
+    "keywords": [
+      "ibs",
+      "exportacao",
+      "exportar",
+      "imunidade exportacao",
+      "manutencao de creditos",
+      "consumo no exterior"
+    ]
+  },
+  {
+    "arquivo": "cbs/cbs-visao-geral.md",
+    "titulo": "CBS — Visão Geral",
+    "keywords": [
+      "cbs",
+      "contribuicao sobre bens e servicos",
+      "visao geral",
+      "competencia federal",
+      "pis",
+      "cofins",
+      "195"
+    ]
+  },
+  {
+    "arquivo": "cbs/cbs-aliquotas.md",
+    "titulo": "CBS — Alíquotas",
+    "keywords": [
+      "cbs",
+      "aliquota",
+      "lei ordinaria federal",
+      "aliquota de referencia",
+      "ajuste senado",
+      "195"
+    ]
+  },
+  {
+    "arquivo": "cbs/cbs-base-calculo.md",
+    "titulo": "CBS — Base de Cálculo",
+    "keywords": [
+      "cbs",
+      "base de calculo",
+      "nao integracao",
+      "195"
+    ]
+  },
+  {
+    "arquivo": "cbs/cbs-regras-comuns-ibs.md",
+    "titulo": "CBS — Regras Comuns com IBS",
+    "keywords": [
+      "cbs",
+      "ibs",
+      "regras comuns",
+      "149-b",
+      "fato gerador",
+      "imunidades",
+      "nao cumulatividade",
+      "harmonizacao"
+    ]
+  },
+  {
+    "arquivo": "cbs/cbs-consulta-harmonizacao.md",
+    "titulo": "CBS — Consulta e Harmonização",
+    "keywords": [
+      "cbs",
+      "ibs",
+      "consulta tributaria",
+      "harmonizacao",
+      "rfb",
+      "receita federal",
+      "solucao de consulta",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-visao-geral.md",
+    "titulo": "Comitê Gestor — Visão Geral",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "natureza juridica",
+      "independencia",
+      "156-b",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-competencias.md",
+    "titulo": "Comitê Gestor — Competências",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "competencia",
+      "regulamento unico",
+      "arrecadacao",
+      "distribuicao",
+      "contencioso",
+      "divida ativa",
+      "escola nacional"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-fiscalizacao-cobranca.md",
+    "titulo": "Comitê Gestor — Fiscalização e Cobrança",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "fiscalizacao",
+      "cobranca",
+      "titularidade",
+      "cotitularidade",
+      "multa punitiva"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-estrutura-orgaos.md",
+    "titulo": "Comitê Gestor — Estrutura e Órgãos",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "conselho superior",
+      "presidencia",
+      "vice presidencia",
+      "diretoria executiva",
+      "secretaria",
+      "corregedoria",
+      "auditoria"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-conselho-superior.md",
+    "titulo": "Comitê Gestor — Conselho Superior",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "conselho superior",
+      "composicao",
+      "eleicao",
+      "cnm",
+      "fnp",
+      "mandato",
+      "perda do cargo"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-deliberacoes.md",
+    "titulo": "Comitê Gestor — Deliberações",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "deliberacao",
+      "quorum",
+      "maioria absoluta",
+      "presidencia alternada",
+      "reeleicao"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-presidencia.md",
+    "titulo": "Comitê Gestor — Presidência",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "presidente",
+      "vice presidente",
+      "eleicao",
+      "alternancia"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-diretoria-executiva.md",
+    "titulo": "Comitê Gestor — Diretoria Executiva",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "diretoria executiva",
+      "diretor executivo",
+      "legislacao",
+      "cadastro",
+      "sistemas",
+      "arrecadacao",
+      "cobranca",
+      "fiscalizacao",
+      "revisao",
+      "administrativa",
+      "procuradoria",
+      "tesouraria"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-corregedoria.md",
+    "titulo": "Comitê Gestor — Corregedoria",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "corregedoria",
+      "processo disciplinar",
+      "conflito de interesses"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-auditoria-interna.md",
+    "titulo": "Comitê Gestor — Auditoria Interna",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "auditoria interna",
+      "controle interno",
+      "vagas femininas"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-financiamento.md",
+    "titulo": "Comitê Gestor — Financiamento",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "financiamento",
+      "orcamento",
+      "controle externo",
+      "percentual arrecadacao"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-integracao-rfb.md",
+    "titulo": "Comitê Gestor — Integração com RFB",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "rfb",
+      "receita federal",
+      "pgfn",
+      "integracao",
+      "atos normativos conjuntos",
+      "informacoes"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-regulamento-unico.md",
+    "titulo": "Comitê Gestor — Regulamento Único",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "regulamento unico",
+      "aprovacao",
+      "normas comuns",
+      "conformidade fiscal",
+      "programa de conformidade"
+    ]
+  },
+  {
+    "arquivo": "comite-gestor/cg-escola-nacional.md",
+    "titulo": "Comitê Gestor — Escola Nacional de Tributação",
+    "keywords": [
+      "comite gestor",
+      "cgibs",
+      "escola nacional",
+      "tributacao",
+      "formacao",
+      "capacitacao",
+      "servidores"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-visao-geral.md",
+    "titulo": "PAT — Processo Administrativo Tributário (Visão Geral)",
+    "keywords": [
+      "pat",
+      "processo administrativo",
+      "processo tributario",
+      "unificado",
+      "lancamento de oficio",
+      "icms",
+      "iss",
+      "fragmentacao"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-lancamento-oficio.md",
+    "titulo": "PAT — Lançamento de Ofício",
+    "keywords": [
+      "pat",
+      "lancamento de oficio",
+      "constituicao do credito",
+      "credito tributario",
+      "prazo",
+      "cobranca administrativa"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-1a-instancia.md",
+    "titulo": "PAT — 1ª Instância",
+    "keywords": [
+      "pat",
+      "primeira instancia",
+      "camara de julgamento",
+      "composicao paritaria",
+      "impugnacao",
+      "pedido de retificacao"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-2a-instancia.md",
+    "titulo": "PAT — 2ª Instância",
+    "keywords": [
+      "pat",
+      "segunda instancia",
+      "camara recursal",
+      "recurso voluntario",
+      "recurso de oficio"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-3a-instancia.md",
+    "titulo": "PAT — 3ª Instância",
+    "keywords": [
+      "pat",
+      "terceira instancia",
+      "camara superior",
+      "recurso de uniformizacao",
+      "provimento vinculante",
+      "orgao nacional"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-rito-sumario.md",
+    "titulo": "PAT — Rito Sumário",
+    "keywords": [
+      "pat",
+      "rito sumario",
+      "pequeno valor",
+      "menor complexidade",
+      "upf",
+      "1000 upf"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-consulta-tributaria.md",
+    "titulo": "PAT — Consulta Tributária",
+    "keywords": [
+      "pat",
+      "consulta tributaria",
+      "consulta",
+      "ibs",
+      "cbs",
+      "cgibs",
+      "rfb",
+      "harmonizacao"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-solucao-conflitos.md",
+    "titulo": "PAT — Métodos Consensuais de Resolução de Conflitos",
+    "keywords": [
+      "pat",
+      "resolucao de conflitos",
+      "metodo consensual",
+      "cobranca extrajudicial",
+      "padronizacao"
+    ]
+  },
+  {
+    "arquivo": "processo-administrativo/pat-multas-penalidades.md",
+    "titulo": "PAT — Multas e Penalidades",
+    "keywords": [
+      "pat",
+      "multa",
+      "penalidade",
+      "sancao",
+      "75%",
+      "100%",
+      "150%",
+      "sonegacao",
+      "fraude",
+      "simulacao",
+      "conluio",
+      "reincidencia",
+      "471-d"
+    ]
+  },
+  {
+    "arquivo": "arrecadacao-distribuicao/ad-split-payment.md",
+    "titulo": "Split Payment — Recolhimento Automático",
+    "keywords": [
+      "split payment",
+      "recolhimento automatico",
+      "liquidacao financeira",
+      "fornecedor",
+      "adquirente",
+      "intermediario",
+      "penalidade",
+      "471-d"
+    ]
+  },
+  {
+    "arquivo": "arrecadacao-distribuicao/ad-distribuicao-entes.md",
+    "titulo": "Distribuição do IBS aos Entes Federativos",
+    "keywords": [
+      "distribuicao",
+      "ibs",
+      "estado",
+      "municipio",
+      "receita base",
+      "retencao",
+      "2029",
+      "2077",
+      "131",
+      "132",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "arrecadacao-distribuicao/ad-receita-media-referencia.md",
+    "titulo": "Receita Média de Referência dos Entes",
+    "keywords": [
+      "receita media de referencia",
+      "2019",
+      "2026",
+      "correcao",
+      "variacao",
+      "icms",
+      "iss",
+      "110",
+      "120"
+    ]
+  },
+  {
+    "arquivo": "arrecadacao-distribuicao/ad-retencoes-compensacoes.md",
+    "titulo": "Retenções, Compensações e Fundos de Combate à Pobreza",
+    "keywords": [
+      "retencao",
+      "compensacao",
+      "saldo credor",
+      "icms",
+      "deducao",
+      "fundo de combate a pobreza",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "arrecadacao-distribuicao/ad-fundo-combate-pobreza.md",
+    "titulo": "Fundos de Combate à Pobreza",
+    "keywords": [
+      "fundo de combate a pobreza",
+      "ibs",
+      "percentual",
+      "estado",
+      "municipio",
+      "82",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "arrecadacao-distribuicao/ad-conformidade-tributaria.md",
+    "titulo": "Programa Nacional de Conformidade Tributária",
+    "keywords": [
+      "conformidade tributaria",
+      "programa nacional",
+      "autorizacao",
+      "autorizegularizacao",
+      "contribuinte conforme",
+      "471-a",
+      "471-b",
+      "471-c"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-visao-geral.md",
+    "titulo": "Imposto Seletivo — Visão Geral",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "extrafiscal",
+      "saude",
+      "meio ambiente",
+      "nocivo",
+      "153",
+      "viii",
+      "lc 214"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-fato-gerador.md",
+    "titulo": "Imposto Seletivo — Fato Gerador",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "fato gerador",
+      "momento",
+      "modalidade",
+      "412"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-nao-incidencia.md",
+    "titulo": "Imposto Seletivo — Não Incidência",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "nao incidencia",
+      "exportacao",
+      "energia eletrica",
+      "telecomunicacoes"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-base-calculo.md",
+    "titulo": "Imposto Seletivo — Base de Cálculo e Alíquotas",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "base de calculo",
+      "aliquota",
+      "ad valorem",
+      "especifica",
+      "extracao",
+      "1 porcento"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-integracao-outros-tributos.md",
+    "titulo": "Imposto Seletivo — Integração com Outros Tributos",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "icms",
+      "iss",
+      "ibs",
+      "cbs",
+      "integracao",
+      "base",
+      "exportacao",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-biocombustiveis.md",
+    "titulo": "Imposto Seletivo — Biocombustíveis",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "biocombustivel",
+      "hidrogênio",
+      "baixa emissão",
+      "carbono",
+      "225"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-compensacao-ipi.md",
+    "titulo": "Imposto Seletivo — Compensação pela Extinção do IPI",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "ipi",
+      "compensacao",
+      "extincao",
+      "aliquota zero",
+      "2027",
+      "126",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "imposto-seletivo/is-alteracoes-lc227.md",
+    "titulo": "Imposto Seletivo — Alterações da LC 227/2026",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "lc 227",
+      "alteracao",
+      "livro iii"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-disposicoes-gerais.md",
+    "titulo": "Regimes Diferenciados — Disposições Gerais",
+    "keywords": [
+      "regime diferenciado",
+      "criterio geral",
+      "avaliacao quinquenal",
+      "vedacao",
+      "beneficio fiscal",
+      "156-a",
+      "340",
+      "352"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-reducao-30-porcento.md",
+    "titulo": "Regimes Diferenciados — Redução de 30%",
+    "keywords": [
+      "regime diferenciado",
+      "reducao 30%",
+      "reducao 30 porcento",
+      "educacao",
+      "saude",
+      "servicos"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-reducao-60-porcento.md",
+    "titulo": "Regimes Diferenciados — Redução de 60%",
+    "keywords": [
+      "regime diferenciado",
+      "reducao 60%",
+      "reducao 60 porcento",
+      "saude",
+      "educacao",
+      "transporte",
+      "produtor rural",
+      "pcd",
+      "seguranca",
+      "saneamento"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-reducao-zero.md",
+    "titulo": "Regimes Diferenciados — Redução a Zero / Alíquota Zero",
+    "keywords": [
+      "regime diferenciado",
+      "reducao zero",
+      "aliquota zero",
+      "cesta basica",
+      "cesta basica nacional",
+      "medicamento",
+      "higiene basica",
+      "insumo agropecuario",
+      "143",
+      "156"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-transporte-coletivo.md",
+    "titulo": "Regimes Diferenciados — Transporte Coletivo",
+    "keywords": [
+      "regime diferenciado",
+      "transporte",
+      "transporte coletivo",
+      "urbano",
+      "semiurbano",
+      "metropolitano",
+      "rodoviario",
+      "metrô",
+      "ferroviario",
+      "hidroviario",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-reabilitacao-urbana.md",
+    "titulo": "Regimes Diferenciados — Reabilitação Urbana",
+    "keywords": [
+      "regime diferenciado",
+      "reabilitacao urbana",
+      "zona historica",
+      "area critica",
+      "comissao tripartite",
+      "158"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-produtor-rural.md",
+    "titulo": "Regimes Diferenciados — Produtor Rural",
+    "keywords": [
+      "regime diferenciado",
+      "produtor rural",
+      "produtor rural integrado",
+      "nao contribuinte",
+      "159",
+      "171"
+    ]
+  },
+  {
+    "arquivo": "regimes-diferenciados/rd-simples-nacional.md",
+    "titulo": "Regimes Diferenciados — Simples Nacional e MEI",
+    "keywords": [
+      "regime diferenciado",
+      "simples nacional",
+      "mei",
+      "microempreendedor",
+      "microempresa",
+      "epp",
+      "pequena empresa",
+      "recolhimento separado",
+      "creditamento",
+      "lc 123",
+      "146"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-combustiveis.md",
+    "titulo": "Regimes Específicos — Combustíveis",
+    "keywords": [
+      "regime especifico",
+      "combustivel",
+      "lubrificante",
+      "monofasico",
+      "aliquota uniforme",
+      "credito",
+      "revenda",
+      "156-a",
+      "192"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-servicos-financeiros.md",
+    "titulo": "Regimes Específicos — Serviços Financeiros",
+    "keywords": [
+      "regime especifico",
+      "servicos financeiros",
+      "credito",
+      "seguro",
+      "cambio",
+      "valores mobiliarios",
+      "base receita",
+      "faturamento",
+      "aliquota uniforme",
+      "banco",
+      "financeira",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-planos-saude.md",
+    "titulo": "Regimes Específicos — Planos de Saúde",
+    "keywords": [
+      "regime especifico",
+      "plano de saude",
+      "plano de assistencia",
+      "base de calculo",
+      "creditamento",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-concursos-prognosticos.md",
+    "titulo": "Regimes Específicos — Concursos e Apostas",
+    "keywords": [
+      "regime especifico",
+      "concurso de prognostico",
+      "aposta",
+      "loteria",
+      "bet",
+      "244",
+      "250"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-bens-imoveis.md",
+    "titulo": "Regimes Específicos — Bens Imóveis",
+    "keywords": [
+      "regime especifico",
+      "bem imovel",
+      "imovel",
+      "locacao",
+      "venda",
+      "loteamento",
+      "incorporacao",
+      "transicao",
+      "credito",
+      "251",
+      "270"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-cooperativas.md",
+    "titulo": "Regimes Específicos — Cooperativas",
+    "keywords": [
+      "regime especifico",
+      "cooperativa",
+      "regime optativo",
+      "associado",
+      "fundos cooperativos",
+      "156-a"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-turismo-hotelaria.md",
+    "titulo": "Regimes Específicos — Turismo e Hotelaria",
+    "keywords": [
+      "regime especifico",
+      "turismo",
+      "hotel",
+      "restaurante",
+      "bar",
+      "parque",
+      "agencia de turismo",
+      "aviacao regional",
+      "273",
+      "291"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-saf-futebol.md",
+    "titulo": "Regimes Específicos — SAF / Futebol",
+    "keywords": [
+      "regime especifico",
+      "saf",
+      "sociedade anonima do futebol",
+      "futebol",
+      "aliquota diferenciada",
+      "292",
+      "296",
+      "lc 227",
+      "veto"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-diplomatico.md",
+    "titulo": "Regimes Específicos — Diplomático",
+    "keywords": [
+      "regime especifico",
+      "diplomatico",
+      "consulado",
+      "missao diplomatica",
+      "organismo internacional",
+      "297",
+      "300"
+    ]
+  },
+  {
+    "arquivo": "regimes-especificos/re-prouni.md",
+    "titulo": "Regimes Específicos — ProUni",
+    "keywords": [
+      "regime especifico",
+      "prouni",
+      "programa universidade para todos",
+      "educacao",
+      "bolsa"
+    ]
+  },
+  {
+    "arquivo": "regimes-aduaneiros/regimes-aduaneiros-especiais.md",
+    "titulo": "Regimes Aduaneiros Especiais",
+    "keywords": [
+      "regime aduaneiro",
+      "drawback",
+      "repetro",
+      "recof",
+      "recine",
+      "reporto",
+      "suspensao",
+      "isencao",
+      "84",
+      "98"
+    ]
+  },
+  {
+    "arquivo": "regimes-aduaneiros/zpex.md",
+    "titulo": "Zonas de Processamento de Exportação (ZPE)",
+    "keywords": [
+      "zpex",
+      "zona de processamento de exportacao",
+      "exportacao",
+      "99",
+      "104"
+    ]
+  },
+  {
+    "arquivo": "regimes-aduaneiros/bens-de-capital.md",
+    "titulo": "Bens de Capital — Crédito e Regimes",
+    "keywords": [
+      "bens de capital",
+      "reidi",
+      "reporto",
+      "credito integral",
+      "credito imediato",
+      "diferimento",
+      "reducao zero",
+      "105",
+      "111"
+    ]
+  },
+  {
+    "arquivo": "regimes-aduaneiros/bagagem-remessas.md",
+    "titulo": "Bagagem e Remessas Internacionais",
+    "keywords": [
+      "bagagem",
+      "remessa internacional",
+      "aeronave",
+      "transito internacional",
+      "viajante",
+      "turista"
+    ]
+  },
+  {
+    "arquivo": "cashback/cashback-visao-geral.md",
+    "titulo": "Cashback — Visão Geral",
+    "keywords": [
+      "cashback",
+      "devolucao",
+      "pessoa fisica",
+      "baixa renda",
+      "beneficiario",
+      "limite",
+      "112",
+      "124"
+    ]
+  },
+  {
+    "arquivo": "cashback/cashback-energia-gas.md",
+    "titulo": "Cashback — Energia Elétrica e GLP",
+    "keywords": [
+      "cashback",
+      "energia eletrica",
+      "glp",
+      "gas",
+      "gas de cozinha",
+      "consumidor de baixa renda",
+      "devolucao obrigatoria",
+      "156-a",
+      "13"
+    ]
+  },
+  {
+    "arquivo": "cashback/cashback-cbs-federal.md",
+    "titulo": "Cashback — CBS Federal",
+    "keywords": [
+      "cashback",
+      "cbs",
+      "federal",
+      "devolucao",
+      "nao computo",
+      "receita corrente liquida",
+      "195"
+    ]
+  },
+  {
+    "arquivo": "cashback/cesta-basica-nacional.md",
+    "titulo": "Cesta Básica Nacional",
+    "keywords": [
+      "cesta basica",
+      "cesta basica nacional",
+      "aliquota zero",
+      "alimentos",
+      "medicamento",
+      "lista",
+      "revisao",
+      "120 dias",
+      "143",
+      "156"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-visao-geral.md",
+    "titulo": "ITCMD — Visão Geral",
+    "keywords": [
+      "itcmd",
+      "imposto heranca",
+      "heranca",
+      "doacao",
+      "transmissao",
+      "causa mortis",
+      "normas gerais",
+      "resolucao 9",
+      "8 porcento",
+      "aliquota maxima",
+      "155"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-fato-gerador.md",
+    "titulo": "ITCMD — Fato Gerador",
+    "keywords": [
+      "itcmd",
+      "fato gerador",
+      "causa mortis",
+      "doacao",
+      "meacao",
+      "quinhao",
+      "transmissao equiparada"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-base-calculo.md",
+    "titulo": "ITCMD — Base de Cálculo",
+    "keywords": [
+      "itcmd",
+      "base de calculo",
+      "valor de mercado",
+      "goodwill",
+      "avaliacao",
+      "deducao"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-aliquotas.md",
+    "titulo": "ITCMD — Alíquotas Progressivas",
+    "keywords": [
+      "itcmd",
+      "aliquota",
+      "progressividade",
+      "progressivo",
+      "8 porcento",
+      "valor do quinhao",
+      "legado",
+      "retroatividade",
+      "155"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-imunidades.md",
+    "titulo": "ITCMD — Imunidades e Não Incidências",
+    "keywords": [
+      "itcmd",
+      "imunidade",
+      "nao incidencia",
+      "entidade sem fins lucrativos",
+      "assistencial",
+      "religiosa",
+      "cientifico",
+      "155"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-transmissoes-internacionais.md",
+    "titulo": "ITCMD — Transmissões Internacionais",
+    "keywords": [
+      "itcmd",
+      "exterior",
+      "extraterritorialidade",
+      "tema 825",
+      "stf",
+      "doacao do exterior",
+      "domicilio",
+      "sem domicilio"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-trusts.md",
+    "titulo": "ITCMD — Trusts",
+    "keywords": [
+      "itcmd",
+      "trust",
+      "trust exterior",
+      "settlor",
+      "trustee",
+      "beneficiario",
+      "fato gerador trust",
+      "contribuinte trust"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-holdings.md",
+    "titulo": "ITCMD — Holdings e Planejamento Sucessório",
+    "keywords": [
+      "itcmd",
+      "holding",
+      "planejamento sucessorio",
+      "holding patrimonial",
+      "valor de mercado",
+      "goodwill",
+      "vantagem fiscal"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-competencia-territorial.md",
+    "titulo": "ITCMD — Competência Territorial",
+    "keywords": [
+      "itcmd",
+      "competencia territorial",
+      "estado tributante",
+      "bem movel",
+      "bem imovel",
+      "domicilio",
+      "localizacao",
+      "hibrido",
+      "155"
+    ]
+  },
+  {
+    "arquivo": "itcmd/itcmd-fiscalizacao-arrecadacao.md",
+    "titulo": "ITCMD — Fiscalização e Arrecadação",
+    "keywords": [
+      "itcmd",
+      "fiscalizacao",
+      "arrecadacao",
+      "estado",
+      "df",
+      "regulamentacao estadual"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-visao-geral.md",
+    "titulo": "Transição — Visão Geral e Cronograma",
+    "keywords": [
+      "transicao",
+      "cronograma",
+      "2026",
+      "2027",
+      "2028",
+      "2029",
+      "2030",
+      "2031",
+      "2032",
+      "2033",
+      "extincao",
+      "mapa das fases",
+      "124",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-2026-fase-teste.md",
+    "titulo": "Transição 2026 — Fase de Teste",
+    "keywords": [
+      "transicao",
+      "2026",
+      "fase de teste",
+      "aliquota teste",
+      "0.9%",
+      "0.1%",
+      "compensacao",
+      "pis",
+      "cofins",
+      "obrigacoes acessorias",
+      "125",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-2027-2028.md",
+    "titulo": "Transição 2027–2028",
+    "keywords": [
+      "transicao",
+      "2027",
+      "2028",
+      "extincao pis",
+      "extincao cofins",
+      "cbs",
+      "ipi",
+      "aliquota zero",
+      "imposto seletivo",
+      "126",
+      "127",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-2029-2032.md",
+    "titulo": "Transição 2029–2032",
+    "keywords": [
+      "transicao",
+      "2029",
+      "2030",
+      "2031",
+      "2032",
+      "reducao gradual",
+      "icms",
+      "iss",
+      "inicio do ibs",
+      "9/10",
+      "6/10",
+      "128",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-2033.md",
+    "titulo": "Transição 2033 — Extinção do ICMS e ISS",
+    "keywords": [
+      "transicao",
+      "2033",
+      "extincao",
+      "icms",
+      "iss",
+      "extincao definitiva",
+      "129",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-aliquotas-referencia.md",
+    "titulo": "Transição — Alíquotas de Referência",
+    "keywords": [
+      "transicao",
+      "aliquota de referencia",
+      "fixacao",
+      "revisao",
+      "teto de referencia",
+      "uniao",
+      "tcu",
+      "senado",
+      "130",
+      "adct",
+      "353",
+      "370"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-distribuicao-ibs-2029-2077.md",
+    "titulo": "Transição — Distribuição IBS 2029–2077",
+    "keywords": [
+      "transicao",
+      "distribuicao ibs",
+      "2029",
+      "2077",
+      "entes subnacionais",
+      "retencoes decrescentes",
+      "equidade",
+      "131",
+      "132",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-receita-media-referencia.md",
+    "titulo": "Transição — Receita Média de Referência",
+    "keywords": [
+      "transicao",
+      "receita media de referencia",
+      "2019",
+      "2026",
+      "correcao",
+      "variacao nominal",
+      "icms",
+      "iss",
+      "110",
+      "120"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-creditos-icms.md",
+    "titulo": "Transição — Créditos de ICMS",
+    "keywords": [
+      "transicao",
+      "credito icms",
+      "saldo credor icms",
+      "aproveitamento",
+      "homologacao",
+      "240 parcelas",
+      "ipca",
+      "compensacao cgibs",
+      "134",
+      "adct",
+      "384",
+      "405"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-creditos-pis-cofins.md",
+    "titulo": "Transição — Créditos de PIS/COFINS",
+    "keywords": [
+      "transicao",
+      "credito pis",
+      "credito cofins",
+      "credito ipi",
+      "nao utilizado",
+      "compensacao cbs",
+      "tributos federais",
+      "135",
+      "adct",
+      "378",
+      "383"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-beneficios-fiscais-icms.md",
+    "titulo": "Transição — Benefícios Fiscais do ICMS",
+    "keywords": [
+      "transicao",
+      "beneficio fiscal icms",
+      "fundo de compensacao",
+      "guerra fiscal",
+      "primarios",
+      "semielaborados",
+      "extincao 2043",
+      "125",
+      "130",
+      "136",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-bens-de-capital.md",
+    "titulo": "Transição — Bens de Capital",
+    "keywords": [
+      "transicao",
+      "bens de capital",
+      "aproveitamento de creditos",
+      "406",
+      "407"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-compras-governamentais.md",
+    "titulo": "Transição — Compras Governamentais",
+    "keywords": [
+      "transicao",
+      "compras governamentais",
+      "reequilibrio",
+      "contratos administrativos",
+      "372",
+      "377"
+    ]
+  },
+  {
+    "arquivo": "transicao/transicao-avaliacao-quinquenal.md",
+    "titulo": "Transição — Avaliação Quinquenal",
+    "keywords": [
+      "transicao",
+      "avaliacao quinquenal",
+      "regime diferenciado",
+      "regime especifico",
+      "cashback",
+      "conselho superior",
+      "340",
+      "352",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "fndr/fndr-visao-geral.md",
+    "titulo": "FNDR — Visão Geral",
+    "keywords": [
+      "fndr",
+      "fundo nacional de desenvolvimento regional",
+      "fdr",
+      "desenvolvimento regional",
+      "infraestrutura",
+      "ciencia tecnologia inovacao",
+      "159-a"
+    ]
+  },
+  {
+    "arquivo": "fndr/fndr-coeficientes.md",
+    "titulo": "FNDR — Coeficientes de Participação",
+    "keywords": [
+      "fndr",
+      "fdr",
+      "coeficiente",
+      "participacao",
+      "populacao",
+      "fpe",
+      "tcu",
+      "159-a"
+    ]
+  },
+  {
+    "arquivo": "fndr/fndr-sustentabilidade.md",
+    "titulo": "FNDR — Sustentabilidade Ambiental",
+    "keywords": [
+      "fndr",
+      "fdr",
+      "sustentabilidade ambiental",
+      "reducao de carbono",
+      "projeto ambiental",
+      "159-a"
+    ]
+  },
+  {
+    "arquivo": "fndr/fundo-amazonas.md",
+    "titulo": "Fundo de Sustentabilidade — Amazonas",
+    "keywords": [
+      "fundo amazonas",
+      "sustentabilidade",
+      "diversificacao economica",
+      "amazonas",
+      "92-b",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "fndr/fundo-amazonia-ocidental.md",
+    "titulo": "Fundo de Desenvolvimento — Amazônia Ocidental e Amapá",
+    "keywords": [
+      "fundo amazonia ocidental",
+      "amapa",
+      "desenvolvimento sustentavel",
+      "92-b",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "zona-franca/zfm-diferencial-competitivo.md",
+    "titulo": "Zona Franca de Manaus — Diferencial Competitivo",
+    "keywords": [
+      "zona franca",
+      "zona franca de manaus",
+      "zfm",
+      "diferencial competitivo",
+      "ibs",
+      "cbs",
+      "92-b",
+      "adct"
+    ]
+  },
+  {
+    "arquivo": "zona-franca/zfm-instrumentos.md",
+    "titulo": "Zona Franca de Manaus — Instrumentos",
+    "keywords": [
+      "zona franca",
+      "zfm",
+      "instrumentos fiscais",
+      "instrumentos financeiros",
+      "ipi",
+      "preservacao",
+      "92-b"
+    ]
+  },
+  {
+    "arquivo": "zona-franca/alc-areas-livre-comercio.md",
+    "titulo": "Áreas de Livre Comércio",
+    "keywords": [
+      "area de livre comercio",
+      "alc",
+      "2023",
+      "fundo amazonia",
+      "fundo amapa",
+      "92-b",
+      "lc 214",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "zona-franca/devolucao-turista-estrangeiro.md",
+    "titulo": "Tax Refund — Devolução ao Turista Estrangeiro",
+    "keywords": [
+      "tax refund",
+      "devolucao turista",
+      "turista estrangeiro",
+      "visitante nao residente",
+      "ibs",
+      "cbs"
+    ]
+  },
+  {
+    "arquivo": "compras-governamentais/adm-publica-tributacao.md",
+    "titulo": "Compras Governamentais — Tributação",
+    "keywords": [
+      "compras governamentais",
+      "administracao publica",
+      "reducao de aliquota",
+      "redistribuicao",
+      "ente contratante",
+      "149-c",
+      "473",
+      "479"
+    ]
+  },
+  {
+    "arquivo": "compras-governamentais/adm-publica-transicao.md",
+    "titulo": "Compras Governamentais — Transição",
+    "keywords": [
+      "compras governamentais",
+      "administracao publica",
+      "transicao",
+      "reequilibrio",
+      "contratos administrativos",
+      "372",
+      "377"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-ctn.md",
+    "titulo": "Alterações ao CTN",
+    "keywords": [
+      "ctn",
+      "codigo tributario nacional",
+      "lei 5172",
+      "alteracao",
+      "conceito",
+      "prazo",
+      "obrigacoes acessorias",
+      "ibs",
+      "cbs",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-lei-kandir.md",
+    "titulo": "Alterações à Lei Kandir (LC 87/1996)",
+    "keywords": [
+      "lei kandir",
+      "lc 87",
+      "icms",
+      "saldo credor",
+      "transicao",
+      "compensacao",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-simples-nacional.md",
+    "titulo": "Alterações ao Simples Nacional (LC 123/2006)",
+    "keywords": [
+      "simples nacional",
+      "lc 123",
+      "microempresa",
+      "mei",
+      "exclusao",
+      "fiscalizacao ibs",
+      "indeferimento cgibs",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-fundeb.md",
+    "titulo": "Alterações ao Fundeb",
+    "keywords": [
+      "fundeb",
+      "lei 14113",
+      "base de calculo",
+      "ibs",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-lc63-municipios.md",
+    "titulo": "Alterações à LC 63/1990 — Transferências aos Municípios",
+    "keywords": [
+      "lc 63",
+      "municipio",
+      "transferencias federais",
+      "criterios",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-lc141-saude.md",
+    "titulo": "Alterações à LC 141/2012 — Saúde",
+    "keywords": [
+      "lc 141",
+      "saude",
+      "acoes e servicos de saude",
+      "ibs",
+      "recursos",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-lc192-combustiveis.md",
+    "titulo": "Alterações à LC 192/2022 — Combustíveis",
+    "keywords": [
+      "lc 192",
+      "combustivel",
+      "tributacao monofasica",
+      "ibs",
+      "cbs",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-crimes-responsabilidade.md",
+    "titulo": "Alterações — Crimes de Responsabilidade",
+    "keywords": [
+      "crime de responsabilidade",
+      "presidente cgibs",
+      "lei 1079",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-afrmm.md",
+    "titulo": "Alterações ao AFRMM",
+    "keywords": [
+      "afrmm",
+      "adicional ao frete",
+      "marinha mercante",
+      "lei 10893",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "alteracoes-legislativas/al-lc214-ajustes.md",
+    "titulo": "Alterações à LC 214 pela LC 227/2026",
+    "keywords": [
+      "lc 227",
+      "alteracao lc 214",
+      "fato gerador",
+      "local operacao",
+      "bens de capital",
+      "saf",
+      "medicamento",
+      "cesta basica",
+      "exportacao de servicos",
+      "174"
+    ]
+  },
+  {
+    "arquivo": "outros/ibs-cbs-harmonizacao.md",
+    "titulo": "IBS/CBS — Harmonização (Art. 149-B CF)",
+    "keywords": [
+      "ibs",
+      "cbs",
+      "harmonizacao",
+      "regras comuns",
+      "149-b"
+    ]
+  },
+  {
+    "arquivo": "outros/ipva-reformulado.md",
+    "titulo": "IPVA — Reformulação",
+    "keywords": [
+      "ipva",
+      "aquatico",
+      "aereo",
+      "aliquota diferenciada",
+      "impacto ambiental",
+      "agronegocio",
+      "155"
+    ]
+  },
+  {
+    "arquivo": "outros/itbi-atualizacao.md",
+    "titulo": "ITBI — Atualização",
+    "keywords": [
+      "itbi",
+      "base de calculo",
+      "municipio",
+      "criterio municipal",
+      "156"
+    ]
+  },
+  {
+    "arquivo": "outros/iluminacao-publica.md",
+    "titulo": "Contribuição de Iluminação Pública",
+    "keywords": [
+      "iluminacao publica",
+      "monitoramento",
+      "seguranca",
+      "logradouro",
+      "149-a"
+    ]
+  },
+  {
+    "arquivo": "outros/distribuicao-ibs-municipios.md",
+    "titulo": "Distribuição do IBS aos Municípios",
+    "keywords": [
+      "distribuicao ibs",
+      "municipio",
+      "cota municipal",
+      "80 porcento",
+      "populacao",
+      "educacao",
+      "ambiental",
+      "igualitario",
+      "158",
+      "lc 227"
+    ]
+  },
+  {
+    "arquivo": "outros/administracoes-tributarias.md",
+    "titulo": "Administrações Tributárias — Carreiras",
+    "keywords": [
+      "administracao tributaria",
+      "carreira tributaria",
+      "limite remuneratorio",
+      "uniao",
+      "lc",
+      "37"
+    ]
+  },
+  {
+    "arquivo": "outros/receitas-is-estados.md",
+    "titulo": "Receitas do IS — Participação dos Estados",
+    "keywords": [
+      "imposto seletivo",
+      "is",
+      "participacao",
+      "estados",
+      "receita",
+      "159"
+    ]
+  },
+  {
+    "arquivo": "implementacao/gti-enat.md",
+    "titulo": "GTI-ENAT — Grupo de Trabalho Interinstitucional",
+    "keywords": [
+      "gti",
+      "enat",
+      "grupo de trabalho interinstitucional",
+      "rfb",
+      "comsefaz",
+      "abrasf",
+      "cnm",
+      "tripartite",
+      "resolucao enat 1",
+      "protocolo de cooperacao",
+      "implementacao",
+      "cgibs",
+      "operacionalizacao"
+    ]
+  },
+  {
+    "arquivo": "implementacao/pat-rtc-fase1.md",
+    "titulo": "PAT-RTC Fase 1 — Elaboração dos Anteprojetos da LC 214/2025",
+    "keywords": [
+      "pat-rtc",
+      "pat rtc",
+      "portaria mf 34",
+      "grupos tecnicos",
+      "comissao de sistematizacao",
+      "grupo de analise juridica",
+      "19 grupos tecnicos",
+      "plp 68",
+      "anteprojeto",
+      "lc 214",
+      "implementacao",
+      "reforma tributaria"
+    ]
+  },
+  {
+    "arquivo": "implementacao/pat-rtc-fase2.md",
+    "titulo": "PAT-RTC Fase 2 — Acompanhamento dos PLPs e GT 20 Split Payment",
+    "keywords": [
+      "pat-rtc 2",
+      "portaria mf 1577",
+      "gt 20",
+      "split payment",
+      "plp 68",
+      "plp 108",
+      "banco central",
+      "bcb",
+      "liquidacao financeira",
+      "implementacao inicial",
+      "cgibs"
+    ]
+  },
+  {
+    "arquivo": "implementacao/piloto-rtc-cbs.md",
+    "titulo": "Piloto RTC-CBS — Teste Operacional da CBS",
+    "keywords": [
+      "piloto rtc",
+      "piloto cbs",
+      "portaria rfb 549",
+      "portaria rfb 596",
+      "confia",
+      "oea",
+      "sped",
+      "teste tecnologico",
+      "adequacao",
+      "adesao",
+      "nao vinculante",
+      "serpro",
+      "implementacao"
+    ]
+  },
+  {
+    "arquivo": "implementacao/documentos-fiscais-2026.md",
+    "titulo": "Documentos Fiscais do IBS e da CBS — Fase de Teste 2026",
+    "keywords": [
+      "documento fiscal",
+      "ato conjunto rfb cgibs",
+      "nf-e",
+      "nfc-e",
+      "nfs-e",
+      "ct-e",
+      "bp-e",
+      "nf3e",
+      "nfcom",
+      "nfag",
+      "nfgas",
+      "nf-e abi",
+      "dere",
+      "penalidade",
+      "nao penalidade",
+      "apuracao informativa",
+      "2026",
+      "fase de teste",
+      "obrigacoes acessorias"
+    ]
+  }
 ]
